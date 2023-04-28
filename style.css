@@ -98,3 +98,10 @@ footer p,
 footer a {
   color: #fff;
 }
+
+/* Icon padlock */
+#lock {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
