@@ -14,8 +14,6 @@ nav .container {
   height: 30px;
   width: 1083px;
 
-  border: 1px solid black;
-
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -25,12 +23,16 @@ nav .container {
   width: 168px;
 }
 
-ul {
+nav ul {
   list-style: none;
 
   display: flex;
   flex-direction: row;
-  justify-: space-around;
+  gap: 64px;
+}
+
+nav ul li a {
+  color: #fff;
 }
 
 a {
