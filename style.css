@@ -96,6 +96,7 @@ footer .container {
 
 footer p,
 footer a {
+  font-family: "JetBrains Mono";
   color: #fff;
 }
 
