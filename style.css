@@ -86,7 +86,7 @@ main section p {
 
 /* Footer */
 footer .container {
-  padding: 27px;
+  padding-top: 27px;
   width: 568px;
 
   border-top: 1px solid #00bfa6;
