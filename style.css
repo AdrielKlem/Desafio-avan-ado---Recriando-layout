@@ -15,8 +15,12 @@ body {
   padding: 0 99px;
 }
 
+nav {
+  height: 30px;
+  width: 1083px;
+}
+
 #logo {
-  height: 23px;
   width: 168px;
 }
 
