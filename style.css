@@ -40,3 +40,46 @@ nav ul {
 nav ul li a {
   color: #fff;
 }
+
+/* Main */
+main .container {
+  padding: 100px 0 150px;
+  width: 1092px;
+  height: 283px;
+
+  display: flex;
+  justify-content: space-between;
+  gap: 82px;
+}
+
+main section h1 {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  color: #fff;
+  mix-blend-mode: normal;
+}
+
+main section h1 span,
+main section p span {
+  color: #00bfa6;
+}
+
+main section p span,
+main section p strong {
+  font-weight: 700;
+}
+
+main secton p {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  color: #c2c2c2;
+  mix-blend-mode: normal;
+}
